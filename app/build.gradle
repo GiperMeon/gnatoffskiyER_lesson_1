@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.gnatovskiy_lesson_1"
+        applicationId "com.example.gnatovskiy_lesson_2"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1

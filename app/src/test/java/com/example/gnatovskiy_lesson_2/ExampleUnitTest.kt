@@ -1,4 +1,4 @@
-package com.example.gnatovskiy_lesson_1
+package com.example.gnatovskiy_lesson_2
 
 import org.junit.Test
 
